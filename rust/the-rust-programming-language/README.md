@@ -3,7 +3,8 @@
 Link to resource: https://doc.rust-lang.org/book
 
 ## Chapters
-- [ ] Getting Started
+
+- [x] Getting Started
 - [ ] Programming a Guessing Game
 - [ ] Common Programming Concepts
 - [ ] Understanding Ownership

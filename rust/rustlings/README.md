@@ -3,6 +3,7 @@
 Link to resource: https://rustlings.rust-lang.org
 
 ## Exercises
+
 - [ ] 00_intro
 - [ ] 01_variables
 - [ ] 02_functions
