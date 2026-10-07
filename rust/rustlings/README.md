@@ -6,7 +6,7 @@ Link to resource: https://rustlings.rust-lang.org
 
 - [x] 00_intro
 - [x] 01_variables
-- [ ] 02_functions
+- [x] 02_functions
 - [ ] 03_if
 - [ ] 04_primitive_types
 - [ ] 05_vecs
