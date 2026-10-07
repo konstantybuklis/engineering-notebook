@@ -5,7 +5,7 @@ Link to resource: https://doc.rust-lang.org/book
 ## Chapters
 
 - [x] Getting Started
-- [ ] Programming a Guessing Game
+- [x] Programming a Guessing Game
 - [ ] Common Programming Concepts
 - [ ] Understanding Ownership
 - [ ] Using Structs to Structure Related Data
