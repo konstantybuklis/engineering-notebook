@@ -7,7 +7,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Getting Started
 - [x] Programming a Guessing Game
 - [x] Common Programming Concepts
-- [ ] Understanding Ownership
+- [x] Understanding Ownership
 - [ ] Using Structs to Structure Related Data
 - [ ] Enums and Pattern Matching
 - [ ] Packages, Crates, and Modules
