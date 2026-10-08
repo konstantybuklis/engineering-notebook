@@ -10,7 +10,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 03_if
 - [x] 04_primitive_types
 - [ ] 05_vecs
-- [ ] 06_move_semantics
+- [x] 06_move_semantics
 - [ ] 07_structs
 - [ ] 08_enums
 - [ ] 09_strings
