@@ -7,7 +7,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 00_intro
 - [x] 01_variables
 - [x] 02_functions
-- [ ] 03_if
+- [x] 03_if
 - [ ] 04_primitive_types
 - [ ] 05_vecs
 - [ ] 06_move_semantics
