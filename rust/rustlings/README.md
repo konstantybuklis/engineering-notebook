@@ -11,7 +11,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 04_primitive_types
 - [ ] 05_vecs
 - [x] 06_move_semantics
-- [ ] 07_structs
+- [x] 07_structs
 - [ ] 08_enums
 - [ ] 09_strings
 - [ ] 10_modules
