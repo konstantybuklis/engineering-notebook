@@ -9,7 +9,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Common Programming Concepts
 - [x] Understanding Ownership
 - [x] Using Structs to Structure Related Data
-- [ ] Enums and Pattern Matching
+- [x] Enums and Pattern Matching
 - [ ] Packages, Crates, and Modules
 - [ ] Common Collections
 - [ ] Error Handling
