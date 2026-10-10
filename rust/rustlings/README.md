@@ -12,11 +12,11 @@ Link to resource: https://rustlings.rust-lang.org
 - [ ] 05_vecs
 - [x] 06_move_semantics
 - [x] 07_structs
-- [ ] 08_enums
+- [x] 08_enums
 - [ ] 09_strings
 - [ ] 10_modules
 - [ ] 11_hashmaps
-- [ ] 12_options
+- [x] 12_options
 - [ ] 13_error_handling
 - [ ] 14_generics
 - [ ] 15_traits
