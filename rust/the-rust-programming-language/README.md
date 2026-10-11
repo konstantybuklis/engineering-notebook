@@ -10,7 +10,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Understanding Ownership
 - [x] Using Structs to Structure Related Data
 - [x] Enums and Pattern Matching
-- [ ] Packages, Crates, and Modules
+- [x] Packages, Crates, and Modules
 - [ ] Common Collections
 - [ ] Error Handling
 - [ ] Generic Types, Traits, and Lifetimes
