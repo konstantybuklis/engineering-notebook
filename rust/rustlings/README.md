@@ -14,7 +14,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 07_structs
 - [x] 08_enums
 - [ ] 09_strings
-- [ ] 10_modules
+- [x] 10_modules
 - [ ] 11_hashmaps
 - [x] 12_options
 - [ ] 13_error_handling
