@@ -13,7 +13,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 06_move_semantics
 - [x] 07_structs
 - [x] 08_enums
-- [ ] 09_strings
+- [x] 09_strings
 - [x] 10_modules
 - [ ] 11_hashmaps
 - [x] 12_options
