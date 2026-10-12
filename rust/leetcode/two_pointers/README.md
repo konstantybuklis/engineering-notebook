@@ -6,3 +6,4 @@
 - [x] [15. 3Sum](https://leetcode.com/problems/3sum/description)
 - [x] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
 - [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description)
+- [x] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description)
