@@ -10,10 +10,7 @@ impl Solution {
 
         while left < right {
             let result = (right as i32 - left as i32) * height[left].min(height[right]);
-
-            if result > max_water {
-                max_water = result
-            }
+            max_water = max_water.max(result);
 
             if height[left] < height[right] {
                 left += 1;
