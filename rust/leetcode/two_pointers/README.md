@@ -9,3 +9,5 @@
 - [x] [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description)
 - [x] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description)
 - [x] [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description)
+- [x] [18. 4Sum](https://leetcode.com/problems/4sum/description)
+- [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description)
