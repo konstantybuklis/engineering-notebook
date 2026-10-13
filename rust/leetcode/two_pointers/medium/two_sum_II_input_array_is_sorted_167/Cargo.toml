@@ -1,5 +1,5 @@
 [package]
-name = "threesum_15"
+name = "two_sum_II_input_array_is_sorted_167"
 version = "0.1.0"
 edition = "2024"
 
