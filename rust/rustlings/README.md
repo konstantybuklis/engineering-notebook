@@ -15,7 +15,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 08_enums
 - [x] 09_strings
 - [x] 10_modules
-- [ ] 11_hashmaps
+- [x] 11_hashmaps
 - [x] 12_options
 - [ ] 13_error_handling
 - [ ] 14_generics
