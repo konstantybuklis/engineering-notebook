@@ -17,7 +17,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 10_modules
 - [x] 11_hashmaps
 - [x] 12_options
-- [ ] 13_error_handling
+- [x] 13_error_handling
 - [ ] 14_generics
 - [ ] 15_traits
 - [ ] 16_lifetimes
