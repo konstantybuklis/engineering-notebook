@@ -18,8 +18,8 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 11_hashmaps
 - [x] 12_options
 - [x] 13_error_handling
-- [ ] 14_generics
-- [ ] 15_traits
+- [x] 14_generics
+- [x] 15_traits
 - [ ] 16_lifetimes
 - [ ] 17_tests
 - [ ] 18_iterators
