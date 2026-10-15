@@ -12,7 +12,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Enums and Pattern Matching
 - [x] Packages, Crates, and Modules
 - [x] Common Collections
-- [ ] Error Handling
+- [x] Error Handling
 - [ ] Generic Types, Traits, and Lifetimes
 - [ ] Writing Automated Tests
 - [ ] An I/O Project: Building a Command Line Program
