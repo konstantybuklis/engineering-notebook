@@ -20,7 +20,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 13_error_handling
 - [x] 14_generics
 - [x] 15_traits
-- [ ] 16_lifetimes
+- [x] 16_lifetimes
 - [ ] 17_tests
 - [ ] 18_iterators
 - [ ] 19_smart_pointers
