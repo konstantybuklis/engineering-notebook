@@ -27,3 +27,7 @@ or:
 ```sh
 $ cargo run --package ex04
 ```
+
+## Chapters
+
+- [x] Chapter 0: References and Lifetimes Review
