@@ -31,3 +31,4 @@ $ cargo run --package ex04
 ## Chapters
 
 - [x] Chapter 0: References and Lifetimes Review
+- [x] Chapter 1: What are Lifetime Annotations?
