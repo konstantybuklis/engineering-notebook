@@ -21,7 +21,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 14_generics
 - [x] 15_traits
 - [x] 16_lifetimes
-- [ ] 17_tests
+- [x] 17_tests
 - [ ] 18_iterators
 - [ ] 19_smart_pointers
 - [ ] 20_threads
