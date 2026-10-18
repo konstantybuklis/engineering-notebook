@@ -34,3 +34,4 @@ $ cargo run --package ex04
 - [x] Chapter 1: What are Lifetime Annotations?
 - [x] Chapter 2: Lifetimes: The Solution to Dangling References
 - [x] Chapter 3: Why Lifetime Annotations Are Mostly Never Used
+- [x] Chapter 4: Mutable References and Containers
