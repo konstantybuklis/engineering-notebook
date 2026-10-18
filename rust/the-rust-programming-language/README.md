@@ -14,7 +14,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Common Collections
 - [x] Error Handling
 - [x] Generic Types, Traits, and Lifetimes
-- [ ] Writing Automated Tests
+- [x] Writing Automated Tests
 - [ ] An I/O Project: Building a Command Line Program
 - [ ] Functional Language Features: Iterators and Closures
 - [ ] More about Cargo and Crates.io
