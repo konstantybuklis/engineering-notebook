@@ -15,7 +15,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Error Handling
 - [x] Generic Types, Traits, and Lifetimes
 - [x] Writing Automated Tests
-- [ ] An I/O Project: Building a Command Line Program
+- [x] An I/O Project: Building a Command Line Program
 - [ ] Functional Language Features: Iterators and Closures
 - [ ] More about Cargo and Crates.io
 - [ ] Smart Pointers
