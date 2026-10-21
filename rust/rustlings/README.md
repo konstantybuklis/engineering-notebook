@@ -22,7 +22,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 15_traits
 - [x] 16_lifetimes
 - [x] 17_tests
-- [ ] 18_iterators
+- [x] 18_iterators
 - [ ] 19_smart_pointers
 - [ ] 20_threads
 - [ ] 21_macros
