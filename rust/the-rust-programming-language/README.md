@@ -16,7 +16,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Generic Types, Traits, and Lifetimes
 - [x] Writing Automated Tests
 - [x] An I/O Project: Building a Command Line Program
-- [ ] Functional Language Features: Iterators and Closures
+- [x] Functional Language Features: Iterators and Closures
 - [ ] More about Cargo and Crates.io
 - [ ] Smart Pointers
 - [ ] Fearless Concurrency
