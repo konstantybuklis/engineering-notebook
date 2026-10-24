@@ -17,7 +17,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Writing Automated Tests
 - [x] An I/O Project: Building a Command Line Program
 - [x] Functional Language Features: Iterators and Closures
-- [ ] More about Cargo and Crates.io
+- [x] More about Cargo and Crates.io
 - [ ] Smart Pointers
 - [ ] Fearless Concurrency
 - [ ] Fundamentals of Asynchronous Programming: Async, Await, Futures, and Streams
