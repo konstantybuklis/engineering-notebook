@@ -5,3 +5,4 @@
 - [x] [155. Min Stack](https://leetcode.com/problems/min-stack/description)
 - [x] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description)
 - [x] [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description)
+- [x] [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
