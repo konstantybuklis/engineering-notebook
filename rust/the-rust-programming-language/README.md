@@ -18,7 +18,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] An I/O Project: Building a Command Line Program
 - [x] Functional Language Features: Iterators and Closures
 - [x] More about Cargo and Crates.io
-- [ ] Smart Pointers
+- [x] Smart Pointers
 - [ ] Fearless Concurrency
 - [ ] Fundamentals of Asynchronous Programming: Async, Await, Futures, and Streams
 - [ ] Object Oriented Programming Features
