@@ -19,7 +19,7 @@ Link to resource: https://doc.rust-lang.org/book
 - [x] Functional Language Features: Iterators and Closures
 - [x] More about Cargo and Crates.io
 - [x] Smart Pointers
-- [ ] Fearless Concurrency
+- [x] Fearless Concurrency
 - [ ] Fundamentals of Asynchronous Programming: Async, Await, Futures, and Streams
 - [ ] Object Oriented Programming Features
 - [ ] Patterns and Matching
