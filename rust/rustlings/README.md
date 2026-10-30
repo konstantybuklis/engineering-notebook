@@ -24,7 +24,7 @@ Link to resource: https://rustlings.rust-lang.org
 - [x] 17_tests
 - [x] 18_iterators
 - [ ] 19_smart_pointers
-- [ ] 20_threads
+- [x] 20_threads
 - [ ] 21_macros
 - [ ] 22_clippy
 - [ ] 23_conversions
